@@ -3,9 +3,7 @@
 ## 🎓 I'm a Computer Science undergrad with an honors in AI and ML
 💡 **Extremely passionate about all things AI, and I sometimes dabble with Financial Markets**
 
-
-
----
+[![](https://github.com/shubhupadhyay1/shubhupadhyay1/blob/main/dino.gif)](https://chromedino.com)
 
 ## 🛠️ Languages and Tools
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />]()
