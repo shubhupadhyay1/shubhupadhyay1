@@ -1,7 +1,7 @@
 # Hello 👋, I'm Shubh 
 
 ## 🎓 I'm a Computer Science undergrad with an honors in AI and ML
-💡 **Extremely passionate about all things AI, and I sometimes dabble with Financial Markets**
+### 💡 Extremely passionate about all things AI, and I sometimes dabble with Financial Markets
 
 [![](https://github.com/shubhupadhyay1/shubhupadhyay1/blob/main/dino.gif)](https://chromedino.com)
 
