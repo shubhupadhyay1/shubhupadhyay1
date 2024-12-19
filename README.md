@@ -3,7 +3,7 @@
 ## 🎓 I'm a Computer Science undergrad with an honors in AI and ML
 💡 **Extremely passionate about all things AI, and I sometimes dabble with Financial Markets**
 
----
+
 
 ---
 
@@ -30,7 +30,10 @@
 ---
 
 ## 📬 Let's Connect
-- 📧 Email: upadhyay.shubh2910@gmail.com 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shubh-upadhyay/)  
-- 🌐 [LeetCode](https://leetcode.com/shubh29krishna/)  
-- 🐦 [Twitter](https://x.com/shubh_upadhyayy)
+[<img align="left" alt="Email" width="22px" src="https://img.icons8.com/fluency/48/000000/new-post.png" />](mailto:upadhyay.shubh2910@gmail.com)
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/shubh-upadhyay/)
+[<img align="left" alt="LeetCode" width="22px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" />](https://leetcode.com/shubh29krishna/)
+[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />](https://x.com/shubh_upadhyayy)
+[<img align="left" alt="Medium" width="22px" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" />](https://medium.com/@shubhupadhyayy) 
+
+
