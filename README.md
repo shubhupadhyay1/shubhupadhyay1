@@ -3,9 +3,8 @@
 ## 🎓 Final-year CS undergrad specializing in AI & ML, with a knack for building models that (sometimes) don’t overfit.  
 
 [![](https://github.com/shubhupadhyay1/shubhupadhyay1/blob/main/dino.gif)](https://chromedino.com)
-### 💡 Obsessed with everything AI—from fine-tuning transformers to chasing alpha in financial markets.  
+### 💡 Obsessed with decoding chaos and chasing patterns where others see noise.
 ### 🚀 Exploring models that predict, explain, and don’t crash.
-### 📈 Obsessed with decoding chaos and chasing patterns where others see noise.
 ### 🎵  When I'm not training models, you’ll find me overanalyzing data or vibing to The 1975.
 
 ## 🛠️ Languages and Tools
