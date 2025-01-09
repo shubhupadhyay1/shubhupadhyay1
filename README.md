@@ -4,8 +4,8 @@
 
 [![](https://github.com/shubhupadhyay1/shubhupadhyay1/blob/main/dino.gif)](https://chromedino.com)
 ### 💡 Obsessed with everything AI—from fine-tuning transformers to chasing alpha in financial markets.  
-### 🚀 Currently experimenting with cutting-edge models in finance, astrophysics, and credit risk prediction.  
-### 📈 On a mission to crack the code behind market dynamics and maybe build the next big quant model.  
+### 🚀 Exploring models that predict, explain, and don’t crash.
+### 📈 Obsessed with decoding chaos and chasing patterns where others see noise.
 ### 🎵  When I'm not training models, you’ll find me overanalyzing data or vibing to The 1975.
 
 ## 🛠️ Languages and Tools
