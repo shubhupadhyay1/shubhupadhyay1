@@ -1,7 +1,10 @@
 # Hello 👋, I'm Shubh 
 
-## 🎓 I'm a Computer Science undergrad with an honors in AI and ML
-### 💡 Extremely passionate about all things AI, and I sometimes dabble with Financial Markets
+## 🎓 Final-year CS undergrad specializing in AI & ML, with a knack for building models that (sometimes) don’t overfit.  
+### 💡 Obsessed with everything AI—from fine-tuning transformers to chasing alpha in financial markets.  
+### 🚀 Currently experimenting with cutting-edge models in finance, astrophysics, and credit risk prediction.  
+### 📈 On a mission to crack the code behind market dynamics and maybe build the next big quant model.  
+### 🌐 When I'm not training models, you’ll find me overanalyzing data or vibing to The 1975.
 
 [![](https://github.com/shubhupadhyay1/shubhupadhyay1/blob/main/dino.gif)](https://chromedino.com)
 
